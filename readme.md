@@ -14,6 +14,9 @@ var database = new Firebase('YOUR FIREBASE URL');
 
 <br><br>
 Here is an embeded picture preview of the game in action: 
+
 <img src="http://i37.servimg.com/u/f37/19/58/72/57/chatnu11.png" />
+
+More pictures and videos available <a href="http://evora.forumotion.com/t5-game-progress-updates">here</a>.
 
 </p>
