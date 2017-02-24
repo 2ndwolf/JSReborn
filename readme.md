@@ -13,7 +13,7 @@ var database = new Firebase('YOUR FIREBASE URL');
 </code>
 
 <br><br>
-Here is an embeded picture preview of the game in action: 
+Here is an embeded picture preview of the game in action:<br> 
 
 <img src="http://i37.servimg.com/u/f37/19/58/72/57/chatnu11.png" />
 
