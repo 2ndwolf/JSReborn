@@ -12,4 +12,8 @@ Before getting started, please make an account with <a href="http://www.firebase
 var database = new Firebase('YOUR FIREBASE URL'); 
 </code>
 
+<br><br>
+Here is an embeded video preview of the game in action: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfKrgkB1G1I" frameborder="0" allowfullscreen></iframe>
+
 </p>
