@@ -6,8 +6,8 @@
 <h3>Here are the steps</h3>
 (1) In the <em>game.js</em> file, replace the placeholder line with your firebase URL:
 
-<script>
+```
 var database = new Firebase('YOUR FIREBASE URL'); 
-</script>
+```
 
 </p>
