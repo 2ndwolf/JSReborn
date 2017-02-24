@@ -1,7 +1,7 @@
 <h2> Welcome to the open-sourced JSReborn Project!</h2>
 <p>
 This is a 2D Zelda-like game clone. 
-This project is currently in development. <a href="http://evora.forumotion.com/t5-game-progress-updates">Here</a> is the progress thread.
+This project is currently in development. <a href="http://evora.forumotion.com/t5-game-progress-updates">Here</a> is the progress thread.<br>
 Before getting started, please make an account with <a href="http://www.firebase.com">Firebase.com</a>. It's free! 
 
 
