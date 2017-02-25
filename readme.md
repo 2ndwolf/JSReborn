@@ -3,7 +3,7 @@
 This is a 2D Zelda-like game clone. <br>
 This project is currently in development. <a href="http://evora.forumotion.com/t5-game-progress-updates">Here</a> is the progress thread.<br><br>
 
-<h3>Here are the steps</h3>
+<h3>Basic Setup</h3>
 (1) Before getting started, please make an account with <a href="http://www.firebase.com">Firebase.com</a>. It's free!<br> 
 In the <b>game.js</b> file, replace the placeholder line with your firebase URL:
 <br><br>
