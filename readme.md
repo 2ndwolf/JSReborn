@@ -1,4 +1,4 @@
-<h2> Welcome to the open-sourced JSReborn (Evora) Project!</h2>
+<h2> Welcome to the open-sourced JSReborn Project!</h2>
 <p>
 This is a 2D multiplayer game written in JavaScript with a Firebase backend. <br>
 This project is currently in development. <a href="http://evora.forumotion.com/t5-game-progress-updates">Here</a> is the progress thread.<br><br>
