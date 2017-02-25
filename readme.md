@@ -13,6 +13,9 @@ var database = new Firebase('YOUR FIREBASE URL');
 <br><br>
 Your firebase URL creates a unique 'server' for your game. Once you have replaced it, simply upload all the code and files to a public webserver, share the public URL with your friends, and you should be on your way to fame!
 
+<h3>Adding NPCs</h3>
+<p>To add custom NPCs to your game</p>
+
 <br><br>
 <h3>Preview Picture</h3>
 
