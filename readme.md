@@ -27,7 +27,7 @@ Replace <code>NPC</code> with <code>Chair</code> in the code above for the NPC, 
 <h3>Bug Report</h3>
 http://evora.forumotion.com/t8-demo-1-0-bugs-fixes
 
-<br><br>
+<br>
 <h3>Preview Picture</h3>
 
 <img src="http://i37.servimg.com/u/f37/19/58/72/57/chatnu11.png" />
