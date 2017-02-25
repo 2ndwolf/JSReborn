@@ -6,7 +6,7 @@ Before getting started, please make an account with <a href="http://www.firebase
 
 
 <h3>Here are the steps</h3>
-(1) In the <em>game.js</em> file, replace the placeholder line with your firebase URL:
+(1) In the <b>game.js</b> file, replace the placeholder line with your firebase URL:
 <br><br>
 <code>
 var database = new Firebase('YOUR FIREBASE URL'); 
