@@ -22,7 +22,7 @@ Add the following line to the World class and replace the parameters:
 </br><br>
 <li>Chairs</li>
 
-Replace <code>NPC</code> with <code>Chair</code> in the code above for the NPC, takes in the same parameters. 
+Replace <code>NPC</code> with <code>Chair</code> in the code above for the NPC, it takes in the same parameters. 
 
 <h3>Bug Report</h3>
 http://evora.forumotion.com/t8-demo-1-0-bugs-fixes
