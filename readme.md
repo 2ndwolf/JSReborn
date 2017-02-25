@@ -3,6 +3,8 @@
 This is a 2D multiplayer game written in JavaScript with a Firebase backend. <br>
 This project is currently in development. <a href="http://evora.forumotion.com/t5-game-progress-updates">Here</a> is the progress thread.<br><br>
 
+<p>Please note that this project is currently for <b>non-commercial</b>
+
 <h3>Basic Setup</h3>
 Before getting started, please make an account with <a href="http://www.firebase.com">Firebase.com</a>. It's free!<br> 
 In the <b>game.js</b> file, replace the placeholder line with your firebase URL:
@@ -19,6 +21,7 @@ Your firebase URL creates a unique 'server' for your game. Once you have replace
 Add the following line to the World class and replace the parameters:
 <br><br>
 <code>World.walls[World.walls.length] = new NPC(x, y, width, height, 'custom_image_url');</code>
+<br>
 <b>Ex:</b><code>World.walls[World.walls.length] = new NPC(240, 228, 96, 64, 'images/npcs/table.png');</code>
 </br><br>
 <li>Chairs</li>
