@@ -13,7 +13,7 @@ var database = new Firebase('YOUR FIREBASE URL');
 <br><br>
 Your firebase URL creates a unique 'server' for your game. Once you have replaced it, simply upload all the code and files to a public webserver, share the public URL with your friends, and you should be on your way to fame!
 
-<h3>Adding Objects to your game</h3>
+<h3>Adding Objects</h3>
 <li>NPCs</li>
 <br>
 Add the following line to the World class and replace the parameters:
@@ -22,7 +22,7 @@ Add the following line to the World class and replace the parameters:
 </br><br>
 <li>Chairs</li>
 
-
+Replace <code>NPC</code> with <code>Chair</code> in the code above for the NPC, takes in the same parameters. 
 
 <h3>Bug Report</h3>
 http://evora.forumotion.com/t8-demo-1-0-bugs-fixes
