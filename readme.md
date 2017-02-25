@@ -16,6 +16,10 @@ Your firebase URL creates a unique 'server' for your game. Once you have replace
 <h3>Adding NPCs</h3>
 <p>To add custom NPCs to your game</p>
 
+<h3>Bug Report</h3>
+<b>Note:</b> <code>Evora</code> is the main server in progress. 
+http://evora.forumotion.com/t8-demo-1-0-bugs-fixes
+
 <br><br>
 <h3>Preview Picture</h3>
 
@@ -24,4 +28,3 @@ Your firebase URL creates a unique 'server' for your game. Once you have replace
 More pictures and videos available <a href="http://evora.forumotion.com/t5-game-progress-updates">here</a>.
 
 </p>
-<b>Note:</b> this project also goes by the name <code>Evora</code>.
