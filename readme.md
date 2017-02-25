@@ -15,7 +15,7 @@ Your firebase URL creates a unique 'server' for your game. Once you have replace
 
 <br><br>
 <h3>Preview Picture</h3>
-<br><br>
+<br>
 
 <img src="http://i37.servimg.com/u/f37/19/58/72/57/chatnu11.png" />
 
