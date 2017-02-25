@@ -3,7 +3,7 @@
 This is a 2D multiplayer game written in JavaScript with a Firebase backend. <br>
 This project is currently in development. <a href="http://evora.forumotion.com/t5-game-progress-updates">Here</a> is the progress thread.<br><br>
 
-<p>Please note that this project is currently for <b>non-commercial</b>
+<p>Please note that this project and all its code are currently for <b>non-commercial</b> use. If you decide to use this code and create something out of it, please commit your changes to this git or email me at: ramseyhat@gmail.com to use it commercially. 
 
 <h3>Basic Setup</h3>
 Before getting started, please make an account with <a href="http://www.firebase.com">Firebase.com</a>. It's free!<br> 
