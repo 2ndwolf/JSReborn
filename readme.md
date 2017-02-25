@@ -22,7 +22,7 @@ Add the following line to the World class and replace the parameters:
 <br><br>
 <code>World.walls[World.walls.length] = new NPC(x, y, width, height, image);</code>
 <br><br>
-<b>Ex:</b><code>World.walls[World.walls.length] = new NPC(240, 228, 96, 64, 'images/npcs/table.png');</code>
+<b>Ex:</b><code> World.walls[World.walls.length] = new NPC(240, 228, 96, 64, 'images/npcs/table.png');</code><br>
 You can use a local path (as shown above) or an image URL for the image parameter. 
 </br><br>
 <li>Chairs</li>
