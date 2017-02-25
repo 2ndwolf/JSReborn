@@ -24,3 +24,4 @@ Your firebase URL creates a unique 'server' for your game. Once you have replace
 More pictures and videos available <a href="http://evora.forumotion.com/t5-game-progress-updates">here</a>.
 
 </p>
+<b>Note:</b> this project also goes by the name <code>Evora</code>.
