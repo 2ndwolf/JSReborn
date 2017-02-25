@@ -18,7 +18,6 @@ Your firebase URL creates a unique 'server' for your game. Once you have replace
 
 <h3>Bug Report</h3>
 http://evora.forumotion.com/t8-demo-1-0-bugs-fixes
-<br><b>Note:</b> <code>Evora</code> is the main server in progress. 
 
 <br><br>
 <h3>Preview Picture</h3>
