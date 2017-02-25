@@ -1,6 +1,6 @@
 <h2> Welcome to the open-sourced JSReborn Project!</h2>
 <p>
-This is a 2D Zelda-like game clone. <br>
+This is a 2D Zelda-like game clone written in JavaScript with Firebase as the backend. <br>
 This project is currently in development. <a href="http://evora.forumotion.com/t5-game-progress-updates">Here</a> is the progress thread.<br><br>
 
 <h3>Basic Setup</h3>
