@@ -15,9 +15,10 @@ Your firebase URL creates a unique 'server' for your game. Once you have replace
 
 <h3>Adding Objects to your game</h3>
 <li>NPCs</li>
+<br>
 Add the following line to the World class and replace the parameters:
 <br>
-<code>World.walls[World.walls.length] = new NPC(x, y, width, height, 'image_url');</code>
+<code>World.walls[World.walls.length] = new NPC(x, y, width, height, 'custom_image_url');</code>
 </br><br>
 <li>Chairs</li>
 
