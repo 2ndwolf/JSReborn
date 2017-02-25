@@ -11,7 +11,7 @@ In the <b>game.js</b> file, replace the placeholder line with your firebase URL:
 var database = new Firebase('YOUR FIREBASE URL'); 
 </code>
 <br><br>
-Your firebase URL serves to create a unique 'server' for your game. Once you have replaced it, simply upload the code to a public webserver and you should be on your way to fame!
+Your firebase URL serves to create a unique 'server' for your game. Once you have replaced it, simply upload all the code and files to a public webserver, share the public URL with your friends, and you should be on your way to fame!
 
 <br><br>
 Here is an embeded picture preview of the game in action:
