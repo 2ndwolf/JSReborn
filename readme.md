@@ -14,7 +14,7 @@ var database = new Firebase('YOUR FIREBASE URL');
 Your firebase URL creates a unique 'server' for your game. Once you have replaced it, simply upload all the code and files to a public webserver, share the public URL with your friends, and you should be on your way to fame!
 
 <br><br>
-Here is an embeded picture preview of the game in action:
+<h3>Preview Picture</h3>
 <br><br>
 
 <img src="http://i37.servimg.com/u/f37/19/58/72/57/chatnu11.png" />
